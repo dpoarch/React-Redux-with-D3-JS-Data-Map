@@ -12,5 +12,5 @@ npm start
 ```
 
 ```
-localhost:8080t
+localhost:8080
 ```
